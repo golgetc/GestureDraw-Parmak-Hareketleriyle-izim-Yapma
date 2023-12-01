@@ -12,15 +12,15 @@ GestureDraw, kullanıcıların gerçek zamanlı olarak bilgisayar kamerası arac
 Bu uygulamayı çalıştırmak için gerekli adımlar:
 
 1. Gerekli kütüphaneleri yükleyin:
-pip install opencv-python
-pip install mediapipe
-pip install numpy
+- pip install opencv-python
+- pip install mediapipe
+- pip install numpy
 
 
 2. Projeyi klonlayın ve çalıştırın:
-git clone https://github.com/golgetc/GestureDraw-Parmak-Hareketleriyle-izim-Yapma.git
-cd GestureDraw
-python main.py
+- git clone https://github.com/golgetc/GestureDraw-Parmak-Hareketleriyle-izim-Yapma.git
+- cd GestureDraw
+- python main.py
 
 
 ## Kullanım
